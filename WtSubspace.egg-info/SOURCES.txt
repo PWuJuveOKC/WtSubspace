@@ -1,0 +1,10 @@
+setup.cfg
+setup.py
+WtSubspace/WeightedVote.py
+WtSubspace/__init__.py
+WtSubspace/test.py
+WtSubspace.egg-info/PKG-INFO
+WtSubspace.egg-info/SOURCES.txt
+WtSubspace.egg-info/dependency_links.txt
+WtSubspace.egg-info/requires.txt
+WtSubspace.egg-info/top_level.txt
