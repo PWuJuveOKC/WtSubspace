@@ -1,4 +1,6 @@
 import numpy as np
+from sklearn.svm import SVC
+from sklearn.ensemble import RandomForestClassifier
 
 class WV():
   def __init__(self,size,times,X,y,base_learner,seed1,seed2,weight_schema):
